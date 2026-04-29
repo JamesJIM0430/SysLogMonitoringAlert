@@ -3,5 +3,5 @@ This project analyzes system logs to detect suspicious login attempts and helps 
 
 **Features:**
 Detect failed login attempts
-Generate alerts
+Uses threshold-based alerting
 Save suspicious logs for review
